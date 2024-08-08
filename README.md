@@ -13,7 +13,7 @@ I'm a Computer Science student from Wales, currently studying at University of N
 
 ### Things I'm Learning
 
-[![What I'm Learning](https://skillicons.dev/icons?i=c,java,gradle,githubactions,)](https://skillicons.dev)
+[![What I'm Learning](https://skillicons.dev/icons?i=c,rust,java,gradle,githubactions,)](https://skillicons.dev)
 
 ### Tools I use
 
