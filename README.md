@@ -18,6 +18,6 @@ As well as *lean3/4, 6502 asm, 65816 asm, and a little bit of ARM asm*.
 
 ### Tools I use
 
-[![Tools](https://skillicons.dev/icons?i=vim,idea,vscode,git,obsidian)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vim,emacs,idea,vscode,git,obsidian)](https://skillicons.dev)
 
 *gif credit https://www.deviantart.com/blurredmirror/art/Pixel-Art-GIF-Cat-idle-689420264*
