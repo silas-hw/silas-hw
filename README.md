@@ -14,7 +14,7 @@ I'm a Computer Science student from Wales, currently studying at University of N
 
 [![What I'm Learning](https://skillicons.dev/icons?i=c,java,haskell,python)](https://skillicons.dev)
 
-As well as *lean3/4, 6502 asm, 65816 asm, and a little bit of ARM asm*.
+As well as *Agda, lean3/4, 6502 asm, 65816 asm, and a little bit of ARM asm*.
 
 ### Tools I use
 
