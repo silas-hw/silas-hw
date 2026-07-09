@@ -8,7 +8,7 @@ I'm a Computer Science student from Wales, currently studying at University of N
 
 - Pronouns: she/they
 - Currently interested in: Computability & Complexity Theory, Type Theory, hardware programming, and retro computing
-- Current project: Port of Zarch for the SNES
+- Current project: Some fun Agda stuff
 
 ### Languages I Know
 
